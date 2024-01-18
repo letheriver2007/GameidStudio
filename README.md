@@ -1,4 +1,4 @@
-# GameidStudio(4.4)
+# Gameids(4.4)
 稍后上传图片，如有遗漏请开issue
 ## Characters
 嘉明 10000092 [Ambr](https://ambr.top/chs/archive/avatar/10000092/gaming)
@@ -66,7 +66,17 @@
 玄文兽 26190201 [Ambr](https://ambr.top/chs/archive/monster/26190201/xuanwen-beast)
 
 柔柔羊 28022101 [Ambr](https://ambr.top/chs/archive/monster/28022101/fluff-fleece-goat)
-## Scenes
+## Activity(Res From [dplek](https://github.com/dplek/Genshin-Activity-ids/tree/v4.4))
+奇境谜丘探幽行 5175
+
+斗胜争驰 5176
+
+有朋自远方来 5178
+
+万壑千岩沉玉间 5180
+
+浮岚隐迹 5181
+## Scenes(Images From @hsr01)
 20190 -65 280 -180 (洞天秘境)
 
 ![296504631-4ec779ab-24dd-4f56-94e7-b9fee132a95c](https://github.com/letheriver2007/GameidStudio/assets/77842352/6f597130-04b2-49c7-b61a-5505af8d6ca4)
