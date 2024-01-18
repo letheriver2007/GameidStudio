@@ -1,4 +1,5 @@
 # GameidStudio(4.4)
+稍后上传图片，如有遗漏请开issue
 ## Characters
 嘉明 10000092 [Ambr](https://ambr.top/chs/archive/avatar/10000092/gaming)
 
