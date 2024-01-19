@@ -6,7 +6,26 @@
 闲云 10000093 [Ambr](https://ambr.top/chs/archive/avatar/10000093/xianyun)
 ## Weapons
 鹤鸣余音 14515 [Ambr](https://ambr.top/chs/archive/weapon/14515/cranes-echoing-call)
-## Food
+## Items
+### Items
+节庆热度 169 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n169/?lang=CHS)
+
+嘉明 1092 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n1092/?lang=CHS)
+
+闲云 1093 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n1093/?lang=CHS)
+
+嘉明的命星 1192 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n1192/?lang=CHS)
+
+闲云的命星 1193 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n1193/?lang=CHS)
+
+清水玉 101241 [Ambr](https://ambr.top/chs/archive/material/101241/clearwater-jade)
+
+沉玉仙茗 101242 [Ambr](https://ambr.top/chs/archive/material/101242/chenyu-adeptea)
+
+苍灵鲤 107026 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n107026/?lang=CHS)
+
+？？？(海灯节自选皮肤礼包) 115042 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n115042/?lang=CHS)
+### Food
 ？？？ 108626 [Ambr](https://ambr.top/chs/archive/food/108626/unknown)
 
 ？？？ 108629 [Ambr](https://ambr.top/chs/archive/food/108629/unknown)
@@ -29,18 +48,40 @@
 
 茶熏乳鸽 108656 [Ambr](https://ambr.top/chs/archive/food/108656/tea-smoked-squab)
 
-古华鱼羊鲜108659 [Ambr](https://ambr.top/chs/archive/food/108659/guhua-fish--lamb-soup)
+古华鱼羊鲜 108659 [Ambr](https://ambr.top/chs/archive/food/108659/guhua-fish--lamb-soup)
 
 沉玉茶露 108662 [Ambr](https://ambr.top/chs/archive/food/108662/chenyu-brew)
 
 四喜圆满 108663 [Ambr](https://ambr.top/chs/archive/food/108663/encompassing-gladness)
 
 得闲饮茶 108664 [Ambr](https://ambr.top/chs/archive/food/108664/a-leisurely-sip)
-## Materials
-清水玉 101241 [Ambr](https://ambr.top/chs/archive/material/101241/clearwater-jade)
 
-沉玉仙茗 101242 [Ambr](https://ambr.top/chs/archive/material/101242/chenyu-adeptea)
+食谱：？？？ 109561 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109561/?lang=CHS)
 
+食谱：？？？ 109562 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109562/?lang=CHS)
+
+食谱：？？？ 109563 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109563/?lang=CHS)
+
+食谱：？？？ 109564 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109564/?lang=CHS)
+
+食谱：八宝福禄鸭 109565 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109565/?lang=CHS)
+
+食谱：油爆双脆 109566 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109566/?lang=CHS)
+
+食谱：红烧肉圆 109567 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109567/?lang=CHS)
+
+食谱：蜜汁叉烧 109568 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109568/?lang=CHS)
+
+食谱：茶好月圆 109569 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109569/?lang=CHS)
+
+食谱：玉纹茶叶蛋 109570 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109570/?lang=CHS)
+
+食谱：茶熏乳鸽 109571 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109571/?lang=CHS)
+
+食谱：古华鱼羊鲜 109572 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109572/?lang=CHS)
+
+食谱：沉玉茶露 109573 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n109573/?lang=CHS)
+### Materials
 羽状鳍翅 112095 [Ambr](https://ambr.top/chs/archive/material/112095/feathery-fin)
 
 月色鳍翅 112096 [Ambr](https://ambr.top/chs/archive/material/112096/lunar-fin)
@@ -48,7 +89,7 @@
 渊光鳍翅 112097 [Ambr](https://ambr.top/chs/archive/material/112097/chasmlight-fin)
 
 凝云鳞甲 113058 [Ambr](https://ambr.top/chs/archive/material/113058/cloudseam-scale)
-## Namecards
+### Namecards
 ？？？ 210187 [Ambr](https://ambr.top/chs/archive/namecard/210187/unknown)
 
 ？？？ 210188 [Ambr](https://ambr.top/chs/archive/namecard/210188/unknown)
@@ -67,6 +108,8 @@
 
 柔柔羊 28022101 [Ambr](https://ambr.top/chs/archive/monster/28022101/fluff-fleece-goat)
 ## Activity(Res From [dplek](https://github.com/dplek/Genshin-Activity-ids/tree/v4.4))
+彩鹞栉春风 2028
+
 奇境谜丘探幽行 5175
 
 斗胜争驰 5176
