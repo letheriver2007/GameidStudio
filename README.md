@@ -78,7 +78,7 @@
 浮岚隐迹 5181
 ## Scenes(Images From @hsr01)
 20190 -65 280 -180 (洞天秘境)
-
+<img src="https://github.com/letheriver2007/GameidStudio/assets/77842352/6f597130-04b2-49c7-b61a-5505af8d6ca4" alt="296504631-4ec779ab-24dd-4f56-94e7-b9fee132a95c" width="768" height="512" align="bottom" />
 ![296504631-4ec779ab-24dd-4f56-94e7-b9fee132a95c](https://github.com/letheriver2007/GameidStudio/assets/77842352/6f597130-04b2-49c7-b61a-5505af8d6ca4)
 
 33768 0 300 0 (深渊堡垒秘境)
