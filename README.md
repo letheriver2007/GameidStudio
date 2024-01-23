@@ -203,18 +203,6 @@
 
 浮岚隐迹 5181
 ## Scenes(Images From @hsr01)
-攸望釜 1183 [HoneyHunterWorld]( https://genshin.honeyhunterworld.com/dl_1183/?lang=CHS)
-
-赤望台 1194 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/dl_1194/?lang=CHS)
-
-闲云个人线 1195 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/dl_1195/?lang=CHS)
-
-海灯节派对玩法01 9721 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/dl_9721/?lang=CHS)
-
-海灯节派对玩法02 9722 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/dl_9722/?lang=CHS)
-
-海灯节派对玩法03 9723 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/dl_9723/?lang=CHS)
-
 翘英庄春茗茶坊 1081 0 0 0
 
 <img src="https://github.com/letheriver2007/GameidStudio/assets/77842352/e7591a7a-6b62-4de8-a2c1-557f586ca737" alt="296504631-4ec779ab-24dd-4f56-94e7-b9fee132a95c" width="384" height="216" />
