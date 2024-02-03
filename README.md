@@ -3,9 +3,9 @@
 ## Characters
 千织 10000094 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/chiori_094/?lang=CHS)
 ## Weapons
-？？？ 11514 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n11514/?lang=CHS)
+有乐御簾切 11514 [Hakush.in](https://gi.hakush.in/weapon/11514)
 
-？？？ 13426 [HoneyHunterWorld](https://genshin.honeyhunterworld.com/i_n13426/?lang=CHS)
+沙中伟贤的对答 13426 [Hakush.in](https://gi.hakush.in/weapon/13426)
 ## Items
 
 ### Namecards
