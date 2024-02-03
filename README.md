@@ -15,7 +15,9 @@
 ### Materials
 
 ### Food
+？？？ 108665 108666 108667 [Hakush.in](https://gi.hakush.in/item/108666)
 
+「时装秀」 108668 [Hakush.in](https://gi.hakush.in/item/108668)
 ### Tasks
 
 ##  Living Beings
